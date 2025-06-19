@@ -16,7 +16,7 @@ jobs:
       DOCKER_USERNAME: thatchayaini123
       IMAGE_NAME: demojun19new
       TAG: latest
-      CONTAINER_NAME: mycontainer
+      CONTAINER_NAME: mycontainer4
       PORT: 3000
 
     steps:
